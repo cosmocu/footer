@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.main{
+    width: 100%;
+    height: 100vh;
+    background-color:gold;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.box{
+    width: 300px;
+    height: 300px;
+    background-color: rgb(26, 54, 26);
+}
+.square{
+    width: 150px;
+    height: 150px;
+    background-color:rgb(121, 108, 37) ;
+    margin-top: 150px;
+    display: flex;
+}
+.kvadrat{
+    width: 80px;
+    height: 80px;
+    background-color:gold;
+    margin-top: 70px;
+    margin-left: 70px;
+}
